@@ -1,0 +1,112 @@
+
+<resources>
+<string name="app_name">signup</string>
+<string-array name="genderList">
+    <item>Male</item>
+    <item>Female</item>
+    <item>Others</item>
+</string-array>
+
+<string-array name="ageGroup">
+    <item>Kid (5–11) </item>
+    <item>Teen (12–18)</item>
+    <item>Young (19–25) </item>
+    <item>Adult (26–50)</item>
+    <item>Old (>50)</item>
+</string-array>
+
+<string-array name="motherTongue">
+    <item>Assamese</item>
+    <item>Bengali</item>
+    <item>Bodo</item>
+    <item>Dogri</item>
+    <item>English</item>
+    <item>Gujarati</item>
+    <item>Hindi</item>
+    <item>Kannada</item>
+    <item>Kashmiri</item>
+    <item>Konkani</item>
+    <item>Maithili</item>
+    <item>Malayalam</item>
+    <item>Meitei</item>
+    <item>Marathi</item>
+    <item>Nepali</item>
+    <item>Odia</item>
+    <item>Punjabi</item>
+    <item>Sanskrit</item>
+    <item>Santali</item>
+    <item>Sindhi</item>
+    <item>Tamil</item>
+    <item>Telugu</item>
+    <item>Urdu</item>
+    <item>Others</item>
+</string-array>
+
+<string-array name="language_Known">
+    <item>Assamese</item>
+    <item>Bengali</item>
+    <item>Bodo</item>
+    <item>Dogri</item>
+    <item>English</item>
+    <item>Gujarati</item>
+    <item>Hindi</item>
+    <item>Kannada</item>
+    <item>Kashmiri</item>
+    <item>Konkani</item>
+    <item>Maithili</item>
+    <item>Malayalam</item>
+    <item>Meitei</item>
+    <item>Marathi</item>
+    <item>Nepali</item>
+    <item>Odia</item>
+    <item>Punjabi</item>
+    <item>Sanskrit</item>
+    <item>Santali</item>
+    <item>Sindhi</item>
+    <item>Tamil</item>
+    <item>Telugu</item>
+    <item>Urdu</item>
+    <item>Others</item>
+</string-array>
+
+<string-array name="areaOfInterest">
+    <item>Acting</item>
+    <item>Blogging </item>
+    <item>Cooking </item>
+    <item>Crafts </item>
+    <item>Dancing </item>
+    <item>Drawing </item>
+    <item>Gardening </item>
+    <item>Painting </item>
+    <item>Photography </item>
+    <item>Reading </item>
+    <item>Singing </item>
+    <item>Swimming </item>
+    <item>Sports</item>
+    <item>Travelling </item>
+    <item>Others</item>
+</string-array>
+
+<string-array name="education">
+    <item>NA</item>
+    <item>Primary</item>
+    <item>Middle </item>
+    <item>Secondary </item>
+    <item>Sr. Sec </item>
+    <item>Graduation </item>
+    <item>PG </item>
+    <item>Others </item>
+</string-array>
+
+</resources>
+
+
+
+
+
+
+
+
+
+
+
